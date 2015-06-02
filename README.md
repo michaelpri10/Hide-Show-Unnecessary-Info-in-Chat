@@ -1,4 +1,4 @@
-##Hide/Show Unnecessary or Cluttering Information in the Sidebar of an SE Chatroom
+##Hide Unnecessary or Cluttering Information in the Sidebar of an SE Chatroom
 
 ###Description
 
