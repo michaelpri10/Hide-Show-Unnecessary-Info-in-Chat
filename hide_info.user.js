@@ -58,7 +58,7 @@ with_jquery(function($) {
         var room_desc = $("#roomdesc");
         var room_tags = $('#room-tags');
         var sidebar_menu = $('#sidebar-menu');
-        $("<table id='info-button-table'></table>").insertAfter(room_tags);
+        $("<table id='info-button-table'></table>").insertBefore(sidebar_menu);
         var info_button_table = $("#info-button-table");
         info_button_table.append("<tr id='info-button-row'></tr>");
         var info_button_row = $('#info-button-row');
